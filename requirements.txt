@@ -1,0 +1,12 @@
+fuzzywuzzy
+httpx[http2]
+ijson
+loguru
+numpy
+openai
+ordered_set
+rich
+tenacity
+tiktoken
+torch
+hugginface_hub
