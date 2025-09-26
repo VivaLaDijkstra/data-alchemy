@@ -9,4 +9,4 @@ rich
 tenacity
 tiktoken
 torch
-hugginface_hub
+huggingface_hub
